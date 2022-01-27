@@ -7,7 +7,7 @@ This demo app shows a simple user profile app set up using
 
 All components are docker-based
 
-### With Docker Compose
+### Run on your machine with Docker Compose
 
 #### To start the application
 
